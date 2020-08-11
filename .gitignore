@@ -1,3 +1,8 @@
 # typescript
 typescript-demo/node_modules
 typescript-demo/dist
+
+# spring-boot-demo gradle
+.idea
+.gradle
+build
